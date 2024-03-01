@@ -4,14 +4,38 @@ I am a Computer Science student in my 2nd year of study at the University of Sou
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on an interpreter in Haskell.
-- 🌱 In my spare time, I am learning the basics of Machine Learning.
+- 🔭 Currently working on an interpreter in Haskell.
+- 🌱 Learning the basics of Machine Learning in my spare time.
 
 ## 🛠️ Skills
 
-- Languages: Python, Java, Haskell, SQL, JavaScript
-- Soft Skills: Problem-Solving, Time Management, Communication, Critical Analysis, Networking, Collaboration, Continuous Learning
-- Tools: Github, IntelliJ, VS Code, Sublime Text, Lucid Charts, Jira, MySQL, JUnit, Docker, Microsoft Suite, Vim
+- **Languages:**
+  - Python
+  - Java
+  - Haskell
+  - SQL
+  - JavaScript
+  - 
+- **Soft Skills:**
+  - Problem-Solving
+  - Time Management
+  - Communication
+  - Critical Analysis
+  - Networking
+  - Collaboration
+  - Continuous Learning
+- **Tools:**
+  - GitHub
+  - IntelliJ
+  - Visual Studio Code
+  - Sublime Text
+  - Lucid Charts
+  - Jira
+  - MySQL
+  - JUnit
+  - Docker
+  - Microsoft Suite
+  - Vim
 
 ## 📊 GitHub Stats
 
