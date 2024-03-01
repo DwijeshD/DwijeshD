@@ -6,14 +6,12 @@ I am a Computer Science student in my 2nd year of study at the University of Sou
 
 - 🔭 I’m currently working on an interpreter in Haskell.
 - 🌱 In my spare time, I am learning the basics of Machine Learning.
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [Interesting Fact about Yourself]
 
 ## 🛠️ Skills
 
-- Languages: [Your Programming Languages]
-- Frameworks: [Your Frameworks]
-- Tools: [Your Tools and Technologies]
+- Languages: Python, Java, Haskell, SQL, JavaScript
+- Soft Skills: Problem-Solving, Time Management, Communication, Critical Analysis, Networking, Collaboration, Continuous Learning
+- Tools: Github, IntelliJ, VS Code, Sublime Text, Lucid Charts, Jira, MySQL, JUnit, Docker, Microsoft Suite, Vim
 
 ## 📊 GitHub Stats
 
