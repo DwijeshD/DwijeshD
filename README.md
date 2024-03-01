@@ -16,15 +16,6 @@ I am a Computer Science student in my 2nd year of study at the University of Sou
   - SQL
   - JavaScript
     
-- **Soft Skills:**
-  - Problem-Solving
-  - Time Management
-  - Communication
-  - Critical Analysis
-  - Networking
-  - Collaboration
-  - Continuous Learning
-    
 - **Tools:**
   - GitHub
   - IntelliJ
