@@ -15,7 +15,7 @@ I am a Computer Science student in my 2nd year of study at the University of Sou
   - Haskell
   - SQL
   - JavaScript
-  - 
+    
 - **Soft Skills:**
   - Problem-Solving
   - Time Management
@@ -24,6 +24,7 @@ I am a Computer Science student in my 2nd year of study at the University of Sou
   - Networking
   - Collaboration
   - Continuous Learning
+    
 - **Tools:**
   - GitHub
   - IntelliJ
