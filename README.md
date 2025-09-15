@@ -31,7 +31,7 @@ I am a Computer Science student in my 2nd year of study at the University of Sou
 
 ## 📊 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=DwijeshD&show_icons=true&count_private=true)](https://github.com/DwijeshD)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&count_private=true&show_icons=true)](https://github.com/yourusername/github-readme-stats)
 
 ## 🌐 Connect with Me
 
