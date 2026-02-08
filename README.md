@@ -59,12 +59,6 @@ I enjoy working on problems where theory meets reality — messy data, real user
 
 ---
 
-## 📊 GitHub Stats
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DwijeshD&show_icons=true&count_private=true)](https://github.com/DwijeshD)
-
----
-
 ## 🌐 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/DwijeshD/)
