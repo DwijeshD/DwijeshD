@@ -1,65 +1,219 @@
-# Hello, I’m Dwi 👋
+<div align="center">
 
-I’m a **Computer Science graduate from the University of Southampton** with a strong interest in building real-world software and applied machine learning systems that actually hold up outside of demos.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:0f172a,45:0e7490,70:2563eb,100:38bdf8&height=230&section=header&text=Dwijesh%20Dookraz&fontSize=62&fontColor=ffffff&fontAlignY=42&desc=%E2%9A%A1%20Backend%20Engineer%20%E2%80%A2%20AI%2FML%20Developer%20%E2%80%A2%20Product%20Builder%20%E2%9A%A1&descAlignY=65&descSize=17&descColor=ffffff&animation=fadeIn" width="100%"/>
 
-I enjoy working on problems where theory meets reality — messy data, real users, external APIs, performance constraints, and unavoidable engineering trade-offs.
+<br/>
 
----
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Building+backend+systems+that+actually+ship+%F0%9F%9A%80;Working+with+LLMs%2C+agents+and+calendar+automation+%F0%9F%A4%96;Exploring+AI%2C+rPPG+and+real-world+ML+systems+%F0%9F%A7%A0;Turning+rough+ideas+into+working+products+%E2%9A%A1;Software+Engineer+%E2%80%A2+Builder+%E2%80%A2+Problem+Solver)](https://git.io/typing-svg)
 
-## 🚀 About Me
+</div>
 
-- 🎓 Computer Science graduate (University of Southampton)
-- 🧠 Focused on **applied machine learning**, especially deep learning for physiological signal estimation (rPPG / heart rate prediction)
-- 🏗️ Experienced in building **production-grade backend systems** using Python, Flask/FastAPI, Firestore, and third-party APIs
-- 🔄 Worked extensively with **webhooks, OAuth, and calendar integrations** (Google & Outlook)
-- 📊 Comfortable handling **large datasets**, memory-efficient training pipelines, and subject-aware ML evaluation
-- 🧪 Strong emphasis on **clean architecture, correctness, and reproducibility**
-- 🚀 Enjoy taking projects from concept → implementation → evaluation → iteration
+<br/>
 
----
+## 🧠 About Me
 
-## 🛠️ Skills
+<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius:16px; margin-left:20px"/>
 
-### **Languages**
-- Python
-- Java
-- JavaScript
-- SQL
-- Haskell
+&nbsp;&nbsp;I'm **Dwijesh**, a software engineer focused on  
+&nbsp;&nbsp;**backend systems**, **AI integrations**, and **applied machine learning**.
 
-### **Machine Learning & Data**
-- PyTorch
-- Deep learning (CNNs, rPPG models such as DeepPhys)
-- Signal processing (PPG / rPPG)
-- Model evaluation & cross-validation
-- Optuna (hyperparameter optimisation)
-- Data preprocessing & augmentation
+&nbsp;&nbsp;I like building useful systems: calendar agents, notification engines,  
+&nbsp;&nbsp;ML pipelines, internal dashboards, automation tools, and products that solve real problems.
 
-### **Backend & Systems**
-- Flask / FastAPI
-- REST APIs
-- Webhooks & OAuth2
-- Firestore
-- Transactional data handling
-- Google & Outlook Calendar APIs
+<br/>
 
-### **Tools & Dev**
-- Git & GitHub
-- Docker
-- VS Code
-- PyCharm
-- IntelliJ
-- JUnit
-- MySQL
-- Jira
-- Lucidchart
-- Vim
-- Linux
-- Microsoft Office
+&nbsp;&nbsp;🔭 &nbsp;Working on **AI-powered productivity and calendar systems**  
+&nbsp;&nbsp;🤖 &nbsp;Interested in **LLMs, agents, RAG, automation and applied AI**  
+&nbsp;&nbsp;🫀 &nbsp;Built ML systems for **remote heart-rate estimation using rPPG**  
+&nbsp;&nbsp;⚙️ &nbsp;Strong backend focus: **APIs, integrations, webhooks and services**  
+&nbsp;&nbsp;🚀 &nbsp;Currently building projects that combine **software, AI and product thinking**  
+
+<br/>
 
 ---
 
-## 🌐 Connect with Me
+<br/>
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/DwijeshD/)
-- 📫 Open to discussions around **software engineering**, **machine learning**, and **research-backed product ideas**
+<div align="center">
+
+## 🌐 Find Me Here
+
+[![Website](https://img.shields.io/badge/Website-020617.svg?style=for-the-badge&logo=vercel&logoColor=38bdf8)](https://dwijesh.dev)&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0f172a.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DwijeshD)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dwijesh-dookraz)&nbsp;
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dwijeshdookraz1@gmail.com)&nbsp;
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 💻 Tech Stack
+
+<br/>
+
+**⚡ Languages**
+
+![Python](https://img.shields.io/badge/Python-0ea5e9?style=for-the-badge&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-2563eb?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-facc15?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-f97316?style=for-the-badge&logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0891b2?style=for-the-badge&logo=postgresql&logoColor=white)
+
+<br/>
+
+**🚀 Backend & APIs**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-14b8a6?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-1e293b?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-16a34a?style=for-the-badge&logo=node.js&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-0369a1?style=for-the-badge&logo=fastapi&logoColor=white)
+![Webhooks](https://img.shields.io/badge/Webhooks-0f766e?style=for-the-badge&logo=webhooks&logoColor=white)
+
+<br/>
+
+**🤖 AI · ML · Data**
+
+![PyTorch](https://img.shields.io/badge/PyTorch-ef4444?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-f59e0b?style=for-the-badge&logo=scikit-learn&logoColor=black)
+![NumPy](https://img.shields.io/badge/NumPy-2563eb?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-1e40af?style=for-the-badge&logo=pandas&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-f97316?style=for-the-badge&logo=jupyter&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-22c55e?style=for-the-badge&logo=opencv&logoColor=white)
+
+<br/>
+
+**🧩 LLMs · Agents · Automation**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-020617?style=for-the-badge&logo=openai&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-14b8a6?style=for-the-badge&logo=langchain&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-0ea5e9?style=for-the-badge&logo=readthedocs&logoColor=white)
+![Vector DBs](https://img.shields.io/badge/Vector%20DBs-6366f1?style=for-the-badge&logo=databricks&logoColor=white)
+![Agents](https://img.shields.io/badge/AI%20Agents-7c3aed?style=for-the-badge&logo=probot&logoColor=white)
+
+<br/>
+
+**🗄️ Databases & Cloud**
+
+![Firebase](https://img.shields.io/badge/Firebase-f59e0b?style=for-the-badge&logo=firebase&logoColor=black)
+![Firestore](https://img.shields.io/badge/Firestore-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2563eb?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-dc2626?style=for-the-badge&logo=redis&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+<br/>
+
+**🎨 Frontend**
+
+![React](https://img.shields.io/badge/React-38bdf8?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-020617?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06b6d4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+<br/>
+
+**🛠️ Tools**
+
+![Docker](https://img.shields.io/badge/Docker-0ea5e9?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f97316?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-facc15?style=for-the-badge&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+
+
+## 📊 GitHub Stats
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DwijeshD&theme=tokyonight" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DwijeshD&theme=tokyonight" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=DwijeshD&hide_border=true&background=020617&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=60a5fa&dates=bfdbfe&currStreakNum=ffffff&sideNums=ffffff&border_radius=16" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DwijeshD&bg_color=020617&color=38bdf8&line=2563eb&point=22d3ee&area=true&hide_border=true&border_radius=16" width="95%"/>
+
+<br/><br/>
+
+## 🐍 Contribution Snake
+
+<br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DwijeshD/DwijeshD/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DwijeshD/DwijeshD/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DwijeshD/DwijeshD/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</picture>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## ⚡ Current Focus
+
+<br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <h3>AI Agents</h3>
+  <p>Building systems that connect LLMs with real tools, calendars, reminders and user workflows.</p>
+</td>
+<td align="center" width="33%">
+  <h3>Backend Engineering</h3>
+  <p>Designing APIs, services, integrations, webhooks and scalable application logic.</p>
+</td>
+<td align="center" width="33%">
+  <h3>Applied ML</h3>
+  <p>Using machine learning for real-world systems, including rPPG-based heart-rate estimation.</p>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 🧭 Engineering Style
+
+<br/>
+
+```python
+class Dwijesh:
+    role = "Software Engineer"
+    focus = ["Backend Systems", "AI Agents", "Applied ML", "Product Engineering"]
+    mindset = "Build useful things. Ship fast. Improve constantly."
+
+    def current_goal(self):
+        return "Turn strong technical systems into real products."
