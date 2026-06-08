@@ -134,8 +134,6 @@
 
 <div align="center">
 
-
-
 ## 📊 GitHub Stats
 
 <br/>
@@ -161,6 +159,7 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<br/><br/>
 
 ## 🐍 Contribution Snake
 
