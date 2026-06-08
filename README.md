@@ -4,7 +4,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Building+backend+systems+that+actually+ship+%F0%9F%9A%80;Working+with+LLMs%2C+agents+and+calendar+automation+%F0%9F%A4%96;Exploring+AI%2C+rPPG+and+real-world+ML+systems+%F0%9F%A7%A0;Turning+rough+ideas+into+working+products+%E2%9A%A1;Software+Engineer+%E2%80%A2+Builder+%E2%80%A2+Problem+Solver)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=780&lines=Building+backend+systems+that+actually+ship+%F0%9F%9A%80;Working+with+LLMs%2C+agents+and+calendar+automation+%F0%9F%A4%96;Exploring+AI%2C+rPPG+and+real-world+ML+systems+%F0%9F%A7%A0;Turning+rough+ideas+into+working+products+%E2%9A%A1;Software+Engineer+%E2%80%A2+Builder+%E2%80%A2+Problem+Solver" />
 
 </div>
 
@@ -134,8 +134,6 @@
 
 <div align="center">
 
-
-
 ## 📊 GitHub Stats
 
 <br/>
@@ -151,6 +149,15 @@
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DwijeshD&bg_color=020617&color=38bdf8&line=2563eb&point=22d3ee&area=true&hide_border=true&border_radius=16" width="95%"/>
+
+<br/><br/>
+
+## ⏱️ Weekly Coding Stats
+
+<br/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <br/><br/>
 
