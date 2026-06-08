@@ -24,6 +24,7 @@ jobs:
           args: >
             --verbose
             --no-progress
+            --exclude "https://www.linkedin.com/.*"
             --exclude "https://github-readme-streak-stats.herokuapp.com/.*"
             --exclude "https://github-readme-activity-graph.vercel.app/.*"
             --exclude "https://github-profile-summary-cards.vercel.app/.*"
