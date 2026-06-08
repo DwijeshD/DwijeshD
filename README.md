@@ -154,6 +154,14 @@
 
 <br/><br/>
 
+## ⏱️ Weekly Coding Stats
+
+<br/>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ## 🐍 Contribution Snake
 
 <br/>
