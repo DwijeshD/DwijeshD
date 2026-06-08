@@ -190,46 +190,10 @@ No activity tracked
 
 <div align="center">
 
-## ⚡ Current Focus
+<div align="center">
 
-<br/>
-
-<table>
-<tr>
-<td align="center" width="33%">
-  <h3>AI Agents</h3>
-  <p>Building systems that connect LLMs with real tools, calendars, reminders and user workflows.</p>
-</td>
-<td align="center" width="33%">
-  <h3>Backend Engineering</h3>
-  <p>Designing APIs, services, integrations, webhooks and scalable application logic.</p>
-</td>
-<td align="center" width="33%">
-  <h3>Applied ML</h3>
-  <p>Using machine learning for real-world systems, including rPPG-based heart-rate estimation.</p>
-</td>
-</tr>
-</table>
+![Profile Views](https://komarev.com/ghpvc/?username=DwijeshD&style=for-the-badge&color=38bdf8&labelColor=020617&label=PROFILE+VIEWS)
 
 </div>
 
 <br/>
-
----
-
-<br/>
-
-<div align="center">
-
-## 🧭 Engineering Style
-
-<br/>
-
-```python
-class Dwijesh:
-    role = "Software Engineer"
-    focus = ["Backend Systems", "AI Agents", "Applied ML", "Product Engineering"]
-    mindset = "Build useful things. Ship fast. Improve constantly."
-
-    def current_goal(self):
-        return "Turn strong technical systems into real products."
