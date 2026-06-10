@@ -136,13 +136,6 @@
 
 ## 📊 GitHub Stats
 
-<br/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DwijeshD&theme=tokyonight" height="170"/>
-&nbsp;&nbsp;
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DwijeshD&theme=tokyonight" height="170"/>
-
-<br/><br/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DwijeshD&hide_border=true&background=020617&ring=38bdf8&fire=0ea5e9&currStreakLabel=38bdf8&sideLabels=60a5fa&dates=bfdbfe&currStreakNum=ffffff&sideNums=ffffff&border_radius=16" height="170"/>
 
@@ -151,6 +144,16 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DwijeshD&bg_color=020617&color=38bdf8&line=2563eb&point=22d3ee&area=true&hide_border=true&border_radius=16" width="95%"/>
 
 <br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DwijeshD/DwijeshD/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DwijeshD/DwijeshD/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/DwijeshD/DwijeshD/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+</picture>
+
+</div>
+
+<br/>
 
 ## ⏱️ Weekly Coding Stats
 
@@ -170,19 +173,6 @@ HTML   3 mins                █████████████████
 
 <br/><br/>
 
-## 🐍 Contribution Snake
-
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DwijeshD/DwijeshD/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DwijeshD/DwijeshD/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/DwijeshD/DwijeshD/output/github-contribution-grid-snake-dark.svg" width="95%"/>
-</picture>
-
-</div>
-
-<br/>
 
 ---
 
