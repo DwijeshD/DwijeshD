@@ -162,12 +162,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 June 2026 - To: 19 June 2026
+From: 13 June 2026 - To: 20 June 2026
 
-Total Time: 7 hrs 56 mins
+Total Time: 8 hrs 24 mins
 
-Python       2 hrs 50 mins         █████████░░░░░░░░░░░░░░░░   35.70 %
-Other        2 hrs 17 mins         ███████▒░░░░░░░░░░░░░░░░░   28.80 %
+Python       2 hrs 28 mins         ███████▒░░░░░░░░░░░░░░░░░   29.44 %
+Other        2 hrs                 ██████░░░░░░░░░░░░░░░░░░░   23.97 %
 ```
 
 <!--END_SECTION:waka-->
