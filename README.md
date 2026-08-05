@@ -162,14 +162,14 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 July 2026 - To: 02 August 2026
+From: 27 July 2026 - To: 03 August 2026
 
-Total Time: 4 hrs 35 mins
+Total Time: 4 hrs 6 mins
 
-JavaScript   2 hrs 13 mins         ████████████░░░░░░░░░░░░░   48.24 %
-Java         33 mins               ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
-Markdown     29 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
-Other        18 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.83 %
+JavaScript   2 hrs 1 min           ████████████▒░░░░░░░░░░░░   49.29 %
+Java         33 mins               ███▒░░░░░░░░░░░░░░░░░░░░░   13.42 %
+TypeScript   18 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+Other        18 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 %
 ```
 
 <!--END_SECTION:waka-->
