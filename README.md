@@ -162,12 +162,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 August 2026 - To: 12 August 2026
+From: 06 August 2026 - To: 13 August 2026
 
-Total Time: 3 hrs 37 mins
+Total Time: 4 hrs 25 mins
 
-JSON       1 hr 25 mins          ██████████░░░░░░░░░░░░░░░   39.36 %
-Other      1 hr 9 mins           ████████░░░░░░░░░░░░░░░░░   31.82 %
+JSON         1 hr 27 mins          ████████▒░░░░░░░░░░░░░░░░   32.80 %
+Other        1 hr 9 mins           ██████▓░░░░░░░░░░░░░░░░░░   26.04 %
 ```
 
 <!--END_SECTION:waka-->
