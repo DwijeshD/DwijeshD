@@ -162,12 +162,12 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2026 - To: 06 September 2026
+From: 31 August 2026 - To: 07 September 2026
 
-Total Time: 15 hrs 50 mins
+Total Time: 13 hrs 45 mins
 
-Python       8 hrs 35 mins         █████████████▓░░░░░░░░░░░   54.22 %
-Other        2 hrs 25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.27 %
+Python       6 hrs 19 mins         ███████████▓░░░░░░░░░░░░░   46.03 %
+Other        1 hr 46 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.87 %
 ```
 
 <!--END_SECTION:waka-->
