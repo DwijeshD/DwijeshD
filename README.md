@@ -141,9 +141,6 @@
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DwijeshD&bg_color=020617&color=38bdf8&line=2563eb&point=22d3ee&area=true&hide_border=true&border_radius=16" width="95%"/>
-
-<br/><br/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DwijeshD/DwijeshD/output/github-contribution-grid-snake-dark.svg"/>
