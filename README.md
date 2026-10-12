@@ -159,13 +159,13 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 October 2026 - To: 10 October 2026
+From: 04 October 2026 - To: 11 October 2026
 
-Total Time: 10 hrs 30 mins
+Total Time: 11 hrs 53 mins
 
-Markdown     3 hrs 45 mins         █████████░░░░░░░░░░░░░░░░   35.76 %
-Python       3 hrs 15 mins         ███████▓░░░░░░░░░░░░░░░░░   31.07 %
-Other        1 hr 34 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
+Markdown     4 hrs 28 mins         █████████▒░░░░░░░░░░░░░░░   37.67 %
+Python       3 hrs 53 mins         ████████▒░░░░░░░░░░░░░░░░   32.72 %
+Other        1 hr 30 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   12.71 %
 ```
 
 <!--END_SECTION:waka-->
