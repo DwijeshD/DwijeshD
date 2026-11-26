@@ -14,8 +14,6 @@
   
 ## 🧠 About Me
 
-<img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius:16px; margin-left:20px"/>
-
 &nbsp;&nbsp;I'm **Dwijesh**. I build **backend systems**, experiment with **applied ML**,  
 &nbsp;&nbsp;and take interesting problems a little further than I probably need to.  
 &nbsp;&nbsp;Lately, that habit is pointed at **LLM agents**.
