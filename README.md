@@ -10,27 +10,26 @@
 
 <br/>
 
+<div align="center">
+  
 ## 🧠 About Me
 
 <img align="right" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" style="border-radius:16px; margin-left:20px"/>
 
-&nbsp;&nbsp;I'm **Dwijesh**, a software engineer focused on  
-&nbsp;&nbsp;**backend systems**, **AI integrations**, and **applied machine learning**.
-
-&nbsp;&nbsp;I like building useful systems: calendar agents, notification engines,  
-&nbsp;&nbsp;ML pipelines, internal dashboards, automation tools, and products that solve real problems.
+&nbsp;&nbsp;I'm **Dwijesh**. I build **backend systems**, experiment with **applied ML**,  
+&nbsp;&nbsp;and take interesting problems a little further than I probably need to.  
+&nbsp;&nbsp;Lately, that habit is pointed at **LLM agents**.
 
 <br/>
 
-&nbsp;&nbsp;🔭 &nbsp;Working on **AI-powered productivity and calendar systems**  
-&nbsp;&nbsp;🤖 &nbsp;Interested in **LLMs, agents, RAG, automation and applied AI**  
-&nbsp;&nbsp;🫀 &nbsp;Built ML systems for **remote heart-rate estimation using rPPG**  
-&nbsp;&nbsp;⚙️ &nbsp;Strong backend focus: **APIs, integrations, webhooks and services**  
-&nbsp;&nbsp;🚀 &nbsp;Currently building projects that combine **software, AI and product thinking**  
-
-<br/>
-
----
+&nbsp;&nbsp;📅 &nbsp;At **Nusmark** (AI calendar assistant), I built much of the **Google & Outlook sync**  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;and the tools our **LLM agents** used to find meeting times.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Getting humans to agree on a time wasn't hard enough, so we added AI.  
+&nbsp;&nbsp;🔔 &nbsp;Built much of the reminder service: **58,000 of 60,500 delivered (96%)**,  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;plus 55,000 cancelled as plans changed. Knowing when *not* to notify is the hard part.  
+&nbsp;&nbsp;🫀 &nbsp;Trained a **dual-stream CNN** to read heart rate from facial video (**r = 0.87** on UBFC-rPPG)  
+&nbsp;&nbsp;🤖 &nbsp;Now building **LLM agent pipelines** with browser automation, aiming for useful over demo-impressive  
+&nbsp;&nbsp;🍓 &nbsp;Away from the keyboard: at a different keyboard, tinkering with a fleet of **Raspberry Pis**
 
 <br/>
 
